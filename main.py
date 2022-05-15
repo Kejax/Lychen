@@ -11,4 +11,4 @@ bot = commands.AutoShardedBot(
     shard_count=2
 )
 
-bot.run("OTA4NzU5OTgyNzk3OTA2MDAw.Gb5HZw.XlpOrygk2ywSc3w9CdIdCAo9mWalu8iTp43ORo")
+bot.run("TOKEN")
